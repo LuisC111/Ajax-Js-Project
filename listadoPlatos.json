@@ -1,0 +1,156 @@
+{
+    "listadoPlatos": {
+      "ciudad": [
+        {
+          "nombre": "Madrid",
+          "plato": "Cocido Madrileño",
+          "img": "img/madrid.jpg"
+        },
+        {
+          "nombre": "Barcelona",
+          "plato": "PA AMB TOMÀQUET",
+          "img": "img/barcelona.jpg"
+        },
+        {
+          "nombre": "Valencia",
+          "plato": "Paella valenciana",
+          "img": "img/valencia.jpg"
+        },
+        {
+          "nombre": "Sevilla",
+          "plato": "Gazpacho",
+          "img": "img/sevilla.jpg"
+        },
+        {
+          "nombre": "Zaragoza",
+          "plato": "Ternasco de Aragón",
+          "img": "img/zaragoza.jpg"
+        },
+        {
+          "nombre": "Málaga",
+          "plato": "Espetos de sardinas",
+          "img": "img/malaga.jpg"
+        },
+        {
+          "nombre": "Murcia",
+          "plato": "Ensalada murciana",
+          "img": "img/murcia.jpg"
+        },
+        {
+          "nombre": "México D.F.",
+          "plato": "Torta de tamal",
+          "img": "img/mexico.jpg"
+        },
+        {
+          "nombre": "Ecatepec",
+          "plato": "Mixiote",
+          "img": "img/ecatepec.jpg"
+        },
+        {
+          "nombre": "Guadalajara",
+          "plato": "Torta Ahogada",
+          "img": "img/guadalajara.jpg"
+        },
+        {
+          "nombre": "Puebla",
+          "plato": "Mole poblano",
+          "img": "img/puebla.jpg"
+        },
+        {
+          "nombre": "Juárez",
+          "plato": "Burritos",
+          "img": "img/juarez.jpg"
+        },
+        {
+          "nombre": "Tijuana",
+          "plato": "Ensalada Cesar",
+          "img": "img/tijuana.jpg"
+        },
+        {
+          "nombre": "León",
+          "plato": "Morcilla",
+          "img": "img/leon.jpg"
+        },
+        {
+          "nombre": "Zapopan",
+          "plato": "Torta ahogada",
+          "img": "img/zapopan.jpg"
+        },
+        {
+          "nombre": "Buenos Aires",
+          "plato": "Asado argentino",
+          "img": "img/buenos_aires.jpg"
+        },
+        {
+          "nombre": "Córdoba",
+          "plato": "Albóndigas a la cordobesa",
+          "img": "img/cordoba.jpg"
+        },
+        {
+          "nombre": "Rosario",
+          "plato": "Pescado a la parrilla",
+          "img": "img/rosario.jpg"
+        },
+        {
+          "nombre": "La Plata",
+          "plato": "Milanesa napolitana",
+          "img": "img/la_plata.jpg"
+        },
+        {
+          "nombre": "Mar del Plata",
+          "plato": "Calamar en Lo de Fran Gentileza",
+          "img": "img/mar_del_plata.jpg"
+        },
+        {
+          "nombre": "San Miguel de Tucumán",
+          "plato": "Ceviche clásico",
+          "img": "img/san_miguel_de_tucuman.jpg"
+        },
+        {
+          "nombre": "Ciudad de Salta",
+          "plato": "Locro",
+          "img": "img/ciudad_de_salta.jpg"
+        },
+        {
+          "nombre": "Bogotá",
+          "plato": "Ajiaco",
+          "img": "img/bogota.jpg"
+        },
+        {
+          "nombre": "Medellín",
+          "plato": "Bandeja Paisa",
+          "img": "img/medellin.jpg"
+        },
+        {
+          "nombre": "Cali",
+          "plato": "Sancocho de gallina",
+          "img": "img/cali.jpg"
+        },
+        {
+          "nombre": "Barranquilla",
+          "plato": "Mojarra frita",
+          "img": "img/barranquilla.jpg"
+        },
+        {
+          "nombre": "Cartagena",
+          "plato": "Arroz de coco",
+          "img": "img/cartagena.jpg"
+        },
+        {
+          "nombre": "Cúcuta",
+          "plato": "Arroz con pollo",
+          "img": "img/cucuta.jpg"
+        },
+        {
+          "nombre": "Soledad",
+          "plato": "Sancocho de bocachico",
+          "img": "img/soledad.jpg"
+        },
+        {
+          "nombre": "Ibagué",
+          "plato": "Lechona Tolimense",
+          "img": "img/ibague.jpg"
+        }
+      ]
+    }
+  }
